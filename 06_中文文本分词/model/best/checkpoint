@@ -1,0 +1,6 @@
+model_checkpoint_path: "rnn_3-2550"
+all_model_checkpoint_paths: "..\\rnn_3-2400"
+all_model_checkpoint_paths: "..\\rnn_3-2450"
+all_model_checkpoint_paths: "..\\rnn_3-2500"
+all_model_checkpoint_paths: "..\\rnn_3-2550"
+all_model_checkpoint_paths: "rnn_3-2550"
